@@ -1,0 +1,4 @@
+client
+706579806560-k0hf29vden2loki76ogva0k0jjd1ni6j.apps.googleusercontent.com
+secret
+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
